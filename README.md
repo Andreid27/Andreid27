@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Andreid27
+- 👀 I’m interested in Pyhton/C++/Java
+- 🌱 I’m currently learning Python
+- 📫 How to reach me:  -> email: andrei@dinca.one
+                       -> linkedin: https://www.linkedin.com/in/andrei-gabriel-dinca
