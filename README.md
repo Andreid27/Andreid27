@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andreid27
-- 👀 I’m interested in Java/Pyhton/C++
-- 🌱 I’m currently learning Java
-- 📫 Reach me here:  -> email: andrei@dinca.one
+- 👀 I’m interested in Java/Pyhton/JavaScript with various frameworks
+- 🌱 I’m currently working with Java
+- 📫 Reach me here:  -> email: andrei@dinca.co
                       -> linkedin: https://www.linkedin.com/in/dinca-andrei
